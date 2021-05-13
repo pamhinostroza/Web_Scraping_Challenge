@@ -77,6 +77,7 @@ hemisphere_image_urls = [
 - - -
 
 ## Step 2 - MongoDB and Flask Application
+<!-- Yes, you need to create a scrape() method inside the scrape_mars.py file. This method should be equivalent to the Jupyter Notebook, where you have scraped all the Mars information. The scrape() method should return a dictionary, which should contain all the scraped data as a key-value pair. -->
 
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
